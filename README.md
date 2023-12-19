@@ -34,6 +34,9 @@ In the `Map` section, discover Java Map implementations like HashMap and TreeMap
 
 **[Link to Map Documentation](map/README.md)**
 
+## Resources
+[AmigosCode](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=8MmMm2-kJV8)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to add more examples, improve existing code, or fix issues, please follow the [contribution guidelines](CONTRIBUTING.md).
