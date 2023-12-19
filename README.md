@@ -37,6 +37,8 @@ In the `Map` section, discover Java Map implementations like HashMap and TreeMap
 ## Resources
 [![Java Data Structures Learning](http://img.youtube.com/vi/8MmMm2-kJV8/0.jpg)](http://www.youtube.com/watch?v=8MmMm2-kJV8)
 
+[Java Data Structures Learning Video](https://www.youtube.com/watch?v=8MmMm2-kJV8&ab_channel=Amigoscode)
+
 
 ## Contributing
 
